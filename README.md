@@ -7,7 +7,7 @@ Z.W, L. X.,et al. Customized Evolutionary Expensive Optimization: Efficient Sear
 
 ------------------------------- Copyright --------------------------------
 
-Permission is granted to copy and use this code for research, noncommercial purposes, provided this copyright notice is retained and the origin of the code is cited. The code is provided "as is" and without any warranties, express or implied.
+Permission is granted to copy and use this code for research, noncommercial purposes, provided this copyright notice is retained and the origin of the code is cited. 
 
 If you have further questions, please contact me. My email address is: lindong.xie@connect.polyu.hk
 
